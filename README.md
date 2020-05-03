@@ -8,7 +8,7 @@ In this project, you'll generate your own [Seinfeld](https://en.wikipedia.org/wi
 
 This way you can stay up to date with any changes we make by pulling the changes to your local repository with git pull.
 
-##Example of the script generated with this network:
+## Example of the script generated with this network:
 
 > jerry:, and they had to reduce the defendants.
 > 
